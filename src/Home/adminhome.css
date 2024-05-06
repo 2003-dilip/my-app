@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.admin-home-main{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(238, 238, 238);
+    position: absolute;
+    top: 0;
+}
+
+.admin-main-content{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+
+
