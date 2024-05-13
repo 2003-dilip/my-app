@@ -48,7 +48,7 @@ const Start = () => {
         <img src={about} alt="splashImage" className="splash-image" />
         
         <div className="splash-text">
-          <h1>Welcome To Pro Planet💚 </h1>
+          <h1>Welcome To Green Gage💚 </h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat iusto nobis officia inventore excepturi, cum repellat, odit sit magni fuga cumque nesciunt sed aperiam? Tempora magni possimus dolores assumenda iusto laboriosam sequi dignissimos, aut repellendus.
           </p>
