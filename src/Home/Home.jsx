@@ -22,7 +22,7 @@ const Home = () => {
     </div>
     </div>
     <div className="footer">
-      <p>Created By Nikhil Kumar 💚</p>
+      <p>Created By Dilip Reddy 💚</p>
     </div>
     </>
   )
