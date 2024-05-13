@@ -40,7 +40,7 @@ const Register = () => {
         </div>
         <div className="register-right">
           <p>Hellow!🖐️</p>
-          <h1>Welcome To The Pro Planet 🌱</h1>
+          <h1>Welcome To Green Gage🌱</h1>
           <form >
             <p>username</p>
             <input className='register-input' type="text" placeholder='Enter Your Username' onChange={(e)=>{
